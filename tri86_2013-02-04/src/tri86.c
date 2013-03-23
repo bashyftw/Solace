@@ -20,6 +20,8 @@
  *
  */
 
+ this is a test
+
 // Include files
 #include <msp430x24x.h>
 #include <signal.h>
